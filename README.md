@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rodrigo Cruz</h1>
-<h3 align="center">An Industrial engineer + Data Science student from :colombia: Colombia </h3>
+<h3 align="center">An Industrial engineer + Data Science student from Bogota. :colombia:</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rodrigocruz13&label=Profile%20views&color=0e75b6&style=flat" alt="rodrigocruz13" /> </p>
 
